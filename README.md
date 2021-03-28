@@ -1,0 +1,2 @@
+# myfrst-repostory
+minor project
